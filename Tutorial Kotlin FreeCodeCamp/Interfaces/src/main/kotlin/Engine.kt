@@ -1,0 +1,5 @@
+interface Engine {
+    fun encenderMotor()
+
+
+}
